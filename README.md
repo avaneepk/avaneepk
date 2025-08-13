@@ -1,10 +1,27 @@
 # About me
 
-I'm a passionate software engineer who enjoys building solutions using technology for real-world challenges. I thrive in both, individual projects and collaborative teams, where I can take ownership of my work and support my team members. 
+<h3 align="center">A passionate Full-Stack developer</h3>
 
-Whether it's Full-stack development 👨‍💻, cloud infrastructure ☁️, leading software projects 📊, or DevOps ⚙️, I enjoy working in environments where there's potential for growth and I can tackle challenges. 
+I enjoy building solutions using technology for real-world challenges. I thrive in both, individual projects and collaborative teams, where I can take ownership of my work and support my team members. 
+</br>
 
-Feel free to connect with me via [LinkedIn/avaneepk](https://www.linkedin.com/in/avaneepk) or [avaneepk11@gmail.com](avaneepk11@gmail.com), and check out my projects here on GitHub! 
+- 🔭 I’m currently working on **Campus Reservation System: Full-Stack dev**
+
+- 🌱 I'm currently exploring these technologies and tools:
+
+![C++](https://img.shields.io/badge/C++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![C#](https://custom-icon-badges.demolab.com/badge/C%23-%23239120.svg?style=for-the-badge&logo=cshrp&logoColor=white) ![Ruby On Rails](https://img.shields.io/badge/Ruby-%23CC342D.svg?style=for-the-badge&&logo=ruby&logoColor=white) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=fff) ![Angular](https://img.shields.io/badge/Angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white) ![Django](https://img.shields.io/badge/Django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) 
+
+
+- 💬 Ask me about **Data Science, GenAI, Web Dev, Cloud Infra**
+
+- 📫 How to reach me **avaneepk11@gmail.com or [LinkedIn/avaneepk](https://www.linkedin.com/in/avaneepk)**
+
+- 📄 Know about my experiences [CV/avaneepk](https://flowcv.com/resume/jte0u2n7jw)
+
+- ⚡ Fun fact **I met the Prime Minister of Finland right before attending a Shrek-themed party. It somehow ended well.**
+
+
+
 
 # Technologies and Tools
 
@@ -36,11 +53,7 @@ Feel free to connect with me via [LinkedIn/avaneepk](https://www.linkedin.com/in
 **Others**
 
 ![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=fff) ![Miro](https://img.shields.io/badge/Miro-050038?style=for-the-badge&logo=miro&logoColor=fff) ![Slack](https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=fff)
-________________________________________________________________________________________________
 
-**I'm currently exploring these technologies and tools:**
-
-![C++](https://img.shields.io/badge/C++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![C#](https://custom-icon-badges.demolab.com/badge/C%23-%23239120.svg?style=for-the-badge&logo=cshrp&logoColor=white) ![Ruby On Rails](https://img.shields.io/badge/Ruby-%23CC342D.svg?style=for-the-badge&&logo=ruby&logoColor=white) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=fff) ![Angular](https://img.shields.io/badge/Angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white) ![Django](https://img.shields.io/badge/Django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) 
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=avaneepk&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true)<br/>
