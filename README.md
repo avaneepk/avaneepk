@@ -4,7 +4,7 @@ I'm a passionate software engineer who enjoys building solutions using technolog
 
 Whether it's Full-stack development 👨‍💻, cloud infrastructure ☁️, leading software projects 📊, or DevOps ⚙️, I enjoy working in environments where there's potential for growth and I can tackle challenges. 
 
-Feel free to connect with me via LinkedIn ([avaneepk](https://www.linkedin.com/in/avaneepk)) or email ([avaneepk11@gmail.com](avaneepk11@gmail.com)), and check out my projects here on GitHub! 
+Feel free to connect with me via [LinkedIn/avaneepk](https://www.linkedin.com/in/avaneepk) or [avaneepk11@gmail.com](avaneepk11@gmail.com), and check out my projects here on GitHub! 
 
 # Technologies and Tools
 
@@ -42,6 +42,17 @@ ________________________________________________________________________________
 
 ![C++](https://img.shields.io/badge/C++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![C#](https://custom-icon-badges.demolab.com/badge/C%23-%23239120.svg?style=for-the-badge&logo=cshrp&logoColor=white) ![Ruby On Rails](https://img.shields.io/badge/Ruby-%23CC342D.svg?style=for-the-badge&&logo=ruby&logoColor=white) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=fff) ![Angular](https://img.shields.io/badge/Angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white) ![Django](https://img.shields.io/badge/Django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) 
 
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=avaneepk&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=avaneepk&theme=tokyonight&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=avaneepk&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+
+---
+[![](https://visitcount.itsvg.in/api?id=avaneepk&icon=1&color=1)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 
